@@ -1,5 +1,5 @@
 #### Flask API for Bengaluru Real Estate Price Prediction
-
+![](project.png)   
 **Description:**
 This Flask application serves as the backend for a real estate price prediction system designed for properties in Bengaluru. It features a REST API to fetch available locations and predict home prices based on user inputs.
 
